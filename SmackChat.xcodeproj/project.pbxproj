@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4FA658B2211653D4007D0623 /* CreateAccountVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FA658B1211653D4007D0623 /* CreateAccountVC.swift */; };
 		591BAA953B6EE51EA3033B29 /* Pods_SmackChat.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6CE43C4F33F1BCD632A2C66D /* Pods_SmackChat.framework */; };
 		B36B4010207EA406005443F3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B36B400F207EA406005443F3 /* AppDelegate.swift */; };
 		B36B4015207EA406005443F3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B36B4013207EA406005443F3 /* Main.storyboard */; };
@@ -21,6 +22,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4FA658B1211653D4007D0623 /* CreateAccountVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateAccountVC.swift; sourceTree = "<group>"; };
 		6CE43C4F33F1BCD632A2C66D /* Pods_SmackChat.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SmackChat.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		70A36BB08156AB00145D378E /* Pods-SmackChat.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SmackChat.debug.xcconfig"; path = "Pods/Target Support Files/Pods-SmackChat/Pods-SmackChat.debug.xcconfig"; sourceTree = "<group>"; };
 		B36B400C207EA406005443F3 /* SmackChat.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SmackChat.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -102,6 +104,7 @@
 				B36B40292083BBFF005443F3 /* ChatVC.swift */,
 				B36B402B2083BC0A005443F3 /* ChannelVC.swift */,
 				B378D1AC209BF4B400658B1A /* LoginVC.swift */,
+				4FA658B1211653D4007D0623 /* CreateAccountVC.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -285,6 +288,7 @@
 			files = (
 				B36B402C2083BC0A005443F3 /* ChannelVC.swift in Sources */,
 				B36B402A2083BBFF005443F3 /* ChatVC.swift in Sources */,
+				4FA658B2211653D4007D0623 /* CreateAccountVC.swift in Sources */,
 				B378D1AD209BF4B400658B1A /* LoginVC.swift in Sources */,
 				B378D1A8209BAA6D00658B1A /* GradientView.swift in Sources */,
 				B36B4010207EA406005443F3 /* AppDelegate.swift in Sources */,
